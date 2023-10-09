@@ -1,16 +1,20 @@
 {
-    "name": "test1234/package",
-    "description": "just for testing",
+    "name": "test12/package", 
+    "description": "A brief description of your package",
+    "type": "library",
+    "license": "MIT", 
     "autoload": {
         "psr-4": {
-            "packages\\": "src/"
+            "packages\\": "src/" 
         }
     },
     "authors": [
         {
             "name": "sourabhm",
-            "email": "sourabhsm@teamvault.net"
+            "email": "sourabmadiwal55@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+       
+    }
 }
