@@ -1,5 +1,5 @@
 {
-    "name": "custome/package",
+    "name": "test/package",
     "description": "just for testing",
     "autoload": {
         "psr-4": {
