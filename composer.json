@@ -1,0 +1,16 @@
+{
+    "name": "custome/package",
+    "description": "just for testing",
+    "autoload": {
+        "psr-4": {
+            "packages\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sourabhm",
+            "email": "sourabhsm@teamvault.net"
+        }
+    ],
+    "require": {}
+}
