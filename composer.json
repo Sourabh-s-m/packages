@@ -1,5 +1,5 @@
 {
-    "name": "test/package",
+    "name": "test1234/package",
     "description": "just for testing",
     "autoload": {
         "psr-4": {
